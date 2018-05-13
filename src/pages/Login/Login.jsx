@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import { Button, Row, Form, Input } from 'antd'
-// import UserLogin from './components/UserLogin';
 import styles from './Login.less';
 
 const FormItem = Form.Item
